@@ -1,0 +1,22 @@
+[
+{"name": "Nadav", "Gender": "Male", "Age": 24,"Address":"Yahod","location":{"type":"Point","coordinates":[34.8812868, 32.0303744]}},
+{"name": "Benny", "Gender": "Male", "Age": 27 ,"Address":"Kfar Saba","location":{"type":"Point","coordinates":[34.9306076,32.1751895]}},
+{"name": "Daniel", "Gender": "Male", "Age": 27 ,"Address":"Holon","location":{"type":"Point","coordinates":[34.779086,32.0095055]}},
+{"name": "Shonit", "Gender": "Female", "Age": 23 ,"Address":"Tel Aviv","location":{"type":"Point","coordinates":[34.7927857,32.0744401]}},
+{"name": "Sigal", "Gender": "Female", "Age": 19 ,"Address":"Yaffo","location":{"type":"Point","coordinates":[34.8303795,32.0699126]}},
+{"name": "Ziv", "Gender": "Male", "Age": 29 ,"Address":"Tel Aviv"},
+{"name": "Namma", "Gender": "Female", "Age": 31 ,"Address":"Tel Aviv"},
+{"name": "Gideon", "Gender": "Male", "Age": 50 ,"Address":"Tel Aviv","location":{"type":"Point","coordinates":[34.8205577,32.1147252]}},
+{"name": "Shay", "Gender": "Male", "Age": 26 ,"Address":"Bat Yam"},
+{"name": "Ronaldo", "Gender": "Male", "Age": 35,"Salary": 200000 ,"Address":"Torino","location":{"type":"Point","coordinates":[34.779086,32.0095055]}},
+{"name": "Messi", "Gender": "Male", "Age": 31,"Salary": 2000000 ,"Address":"Barcelona"},
+{"name": "Idan", "Gender": "Male", "Age": 24 ,"Address":"Tel Aviv"},
+{"name": "Liron", "Gender": "Female", "Age": 66 ,"Address":"Haifa"},
+{"name": "Dan", "Gender": "Male", "Age": 78 ,"Address":"Haifa"},
+{"name": "Ohad", "Gender": "Male", "Age": 36 ,"Address":"Haifa"},
+{"name": "Lony", "Gender": "Male", "Age": 100 ,"Address":"Haifa"},
+{"name": "Fibi", "Gender": "Female", "Age": 7 ,"Address":"Hod Hashron"},
+{"name": "Shon", "Gender": "Male", "Age": 15 ,"Address":"Hod Hashron"},
+{"name": "Shredeer", "Gender": "Male", "Age": 78 ,"Address":"Bat Yam"},
+{"name": "Woly", "Gender": "Male", "Age": 1 ,"Address":"Bat Yam"}
+]
